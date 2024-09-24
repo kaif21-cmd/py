@@ -101,3 +101,9 @@ output: thirty days of coding
 challenge="thirty days of python"
 print(challenge.split())
 ```
+# 14 swapcase() is the methord is striing convert upper to lower or lower to upper case
+```jsx
+challenge='kaif kaif'
+print(challenge.swapcase())
+output:KAIF KAIF
+```
