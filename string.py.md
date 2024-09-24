@@ -12,7 +12,7 @@ first="kaif"
 last="shaikh"
 print(len(last)>len(first)) # true
 ```
-# 3 String formating
+# 3 String formating in python
 ```jsx
 %s string
 %d integers
