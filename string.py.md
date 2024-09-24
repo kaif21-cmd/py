@@ -20,5 +20,11 @@ print(len(last)>len(first)) # true
 '%.2f'
 
 ```
+# 4 Accesing Character in a string
+```jsx
+language='python'
+firstletter=language[0]
+print(firstletter)
+```
 
 
