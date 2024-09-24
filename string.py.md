@@ -52,3 +52,8 @@ language='python'
 print(language[0:6:2])
 pto
 ```
+# Capitalize letter in python
+```jsx
+challenge="kaif"
+print(challenge.capitalize())
+```
