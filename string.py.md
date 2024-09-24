@@ -30,5 +30,12 @@ last=len(language)-1
 lastletter=language[last]
 print(last)
 ```
-
+# 5 Slicing in a python
+```jsx
+language='python'
+first=language[0:3]
+print(first)
+lastthree=language[3:6]
+print(lastthree)
+```
 
