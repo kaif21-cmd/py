@@ -69,3 +69,18 @@ output:3
 print(hello.endswith('o'))
 hellos="hello kaif hello"
 ```
+# 10 some more methords
+```jsx
+challenges='kaifshaikh'
+challengez='1234'
+chall="KAIF"
+print(challenges.isalpha()) # check whole string is containe the character or not
+print(challengez.isdigit()) # check whole string contains only number on not
+print(challenges.islower()) # check string is lowercase
+print(chall.isupper()) # check string is in uppercase
+output
+True
+True
+True
+True
+```
