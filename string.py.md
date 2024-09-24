@@ -46,3 +46,9 @@ hon
 greeting='hello kaif'
 print(greeting[::-1])
 ```
+# 7 Skiping of character
+```jsx
+language='python'
+print(language[0:6:2])
+pto
+```
