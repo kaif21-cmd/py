@@ -84,3 +84,9 @@ True
 True
 True
 ```
+# 11 join() in python
+```jsx
+webtech=['html','css','js','node']
+print(" ".join(webtech))
+html css js node
+```
