@@ -1,4 +1,4 @@
-# String in Python 
+# 1 String in Python 
 ```jsx
 nname="kaif"
 print(name)
@@ -12,4 +12,13 @@ first="kaif"
 last="shaikh"
 print(len(last)>len(first)) # true
 ```
+# 3 String formating
+```jsx
+%s string
+%d integers
+%f float
+'%.2f'
+
+```
+
 
