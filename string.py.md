@@ -25,6 +25,10 @@ print(len(last)>len(first)) # true
 language='python'
 firstletter=language[0]
 print(firstletter)
+
+last=len(language)-1
+lastletter=language[last]
+print(last)
 ```
 
 
