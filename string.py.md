@@ -56,4 +56,5 @@ pto
 ```jsx
 challenge="kaif"
 print(challenge.capitalize())
+output: Kaif
 ```
