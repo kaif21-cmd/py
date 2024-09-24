@@ -7,5 +7,9 @@ print(name)
 ```jsx
 name="kaif"
 print(name)
+print(len(name)) #4
+first="kaif"
+last="shaikh"
+print(len(last)>len(first)) # true
 ```
 
