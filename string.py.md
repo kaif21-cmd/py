@@ -58,9 +58,14 @@ challenge="kaif"
 print(challenge.capitalize())
 output: Kaif
 ```
-# 9counter in python string
+# 9 counter in python string
 ```jsx
 challenges="kaif kaif kaif"
 print(challenges.count('k'))
 output:3
+```
+# 10 string endwith()
+```jsx
+print(hello.endswith('o'))
+hellos="hello kaif hello"
 ```
