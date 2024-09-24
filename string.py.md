@@ -37,6 +37,9 @@ first=language[0:3]
 print(first)
 lastthree=language[3:6]
 print(lastthree)
+output:
+pyt
+hon
 ```
 # 6 Reverse a String in python
 ```jsx
