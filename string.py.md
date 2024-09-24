@@ -38,4 +38,8 @@ print(first)
 lastthree=language[3:6]
 print(lastthree)
 ```
-
+# 6 Reverse a String in python
+```jsx
+greeting='hello kaif'
+print(greeting[::-1])
+```
