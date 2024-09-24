@@ -52,9 +52,15 @@ language='python'
 print(language[0:6:2])
 pto
 ```
-# Capitalize letter in python
+# 8 Capitalize letter in python
 ```jsx
 challenge="kaif"
 print(challenge.capitalize())
 output: Kaif
+```
+# 9counter in python string
+```jsx
+challenges="kaif kaif kaif"
+print(challenges.count('k'))
+output:3
 ```
