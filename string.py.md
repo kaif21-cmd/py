@@ -90,9 +90,14 @@ webtech=['html','css','js','node']
 print(" ".join(webtech))
 html css js node
 ```
-# Replace string in python
+# 12 Replace string in python
 ```jsx
 challenge="thirty days of python"
 print(challenge.replace('python','coding'))
 output: thirty days of coding
+```
+# 13 Spliting the string or split string into list 
+```jsx
+challenge="thirty days of python"
+print(challenge.split())
 ```
