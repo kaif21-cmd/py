@@ -106,4 +106,39 @@ print(challenge.split())
 challenge='kaif kaif'
 print(challenge.swapcase())
 output:KAIF KAIF
+``
+# Questions
+```jsx
+concatenate=['thirty','days','of','python']
+print(" ".join(concatenate)) # joining string concatenate
+company="Airtel"
+name="kaif"
+print(len(company)) # length of string
+print(company.upper()) # convert whole string to upper
+print(company.lower()) # convert whole strinfg to lower
+print(company.capitalize()) # convert firsy world capitalize
+print(company.title())
+print(company.swapcase()) # convert whole string to upper or upper to lower case
+print(company[0:3]) # spliting string 
+print(name.replace('kaif','shaikh')) # replace in string 
+firstletter=company[0] # accssesing word in string
+print(firstletter)
+last=len(company)-1
+lastletter=company[last]
+print(last)
+kaifstring="hello my name is kaif"
+print(kaifstring.split())
+# Original sentence
+sentence = "You cannot end a sentence with because because because is a conjunction"
+
+# Remove the phrase
+modified_sentence = sentence.replace("because because because", "")
+
+# Print the result
+print(modified_sentence.strip()) 
+print(company.find('A')) # give the first accurence of string 
+substring="hello my name is kaif"
+print(substring.startswith("hello")) # check weather the string is start with or not 
+print(substring.endswith("kaif"))
+
 ```
